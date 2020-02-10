@@ -43,7 +43,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-  I did my B.Tech from <a href="http://online.gndu.ac.in/">Guru Nanak Dev University </a> (a central university) in Jalandhar, Punjab, India from <b>Computer Science and Engineering</b>. 
+  I did my B.Tech in <b>Computer Science and Engineering</b> from <a href="http://online.gndu.ac.in/">Guru Nanak Dev University </a> (a central university) in Jalandhar, Punjab, India. 
 </p>  
 
 <p class="about-text">
