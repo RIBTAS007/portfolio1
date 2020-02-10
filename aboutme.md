@@ -33,7 +33,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about SharePoint and Office 365.
+  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://www.dropbox.com/s/3l3o1rpov38ir6c/SharePoint%20and%20Office%20365%20Report.docx?dl=0">SharePoint and Office 365</a>.
 </p>
 
 <p class="about-text">
@@ -43,7 +43,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-  I did my B.Tech from <a href="http://online.gndu.ac.in/">Guru Nanak Dev University regional campus Jalandhar</a> (a central university) in Jalandhar, Punjab, India from <b>Computer Science and Engineering</b>. 
+  I did my B.Tech from <a href="http://online.gndu.ac.in/">Guru Nanak Dev University </a> (a central university) in Jalandhar, Punjab, India from <b>Computer Science and Engineering</b>. 
 </p>  
 
 <p class="about-text">
@@ -53,20 +53,17 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-code about-icon"></span>
-	I enrolled in PHP and MySQL training in 2017. This training was offered by the Spoken Tutorial Project, <b>IIT Bombay</b>, funded by National Mission onEducation through ICT, MHRD, Govt., of India
+	I enrolled in <b>PHP and MySQL</b> training in 2017. This training was offered by the Spoken Tutorial Project, <b>IIT Bombay</b>, funded by National Mission onEducation through ICT, MHRD, Govt., of India
 </p>
 
 <p class="about-text">
   <span class="fa fa-code about-icon"></span>
-	I completed the Front End Development certification course in 2017 from <a href="https://www.freecodecamp.org/">freecodecamp.org</a>
+	I completed the <b>Front End Web Development</b> certification course in 2017 from <a href="https://www.freecodecamp.org/">freecodecamp.org</a>
 </p>
 
 <p class="about-text">
   <span class="fa fa-heart about-icon"></span>
   I like to meet new people and talk to them.
-</p>
-
-<div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/wRSGwh3zOKk?ecver=2" style="position:absolute;width:80%;height:80%;left:10%" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </p>
 
 </div>
