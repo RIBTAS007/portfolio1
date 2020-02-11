@@ -5,7 +5,7 @@ categories: project
 tags: [SharePoint, Office365]
 code: https://github.com/RIBTAS007/SharePoint-and-Office-365
 demo: https://ribtas007.github.io/SharePoint-and-Office-365/
-image: /img/project-imgs/Random quote generator.jpg
+image: /img/project-imgs/sharepoint.jpg
 ---
 
 
