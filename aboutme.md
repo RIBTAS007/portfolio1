@@ -13,7 +13,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-file-text-o about-icon"></span>
-  Download my CV here ().
+  Download my CV here (<a href="/files/v3.pdf">pdf</a>).
 </p>
 
 <p class="about-text">
