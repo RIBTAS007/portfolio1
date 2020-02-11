@@ -18,7 +18,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-  I have graduated in computer science in 2018 and currently I am preparing for GATE exam for pursuing M.Tech from one of the best colleges of <b>INDIA </b>.
+	I have graduated in computer science in 2018 and currently I am preparing for <b>GATE</b> exam for pursuing M.Tech from one of the best colleges of <b>INDIA </b>.
 </p>
 
 <p class="about-text">
@@ -33,7 +33,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://www.dropbox.com/s/3l3o1rpov38ir6c/SharePoint%20and%20Office%20365%20Report.docx?dl=0">SharePoint and Office 365</a>.
+  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://www.dropbox.com/s/otjycx230wtakrv/SharePoint%20and%20Office%20365%20Report.pdf?dl=0">SharePoint and Office 365</a>.
 </p>
 
 <p class="about-text">
