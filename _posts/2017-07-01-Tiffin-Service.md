@@ -1,11 +1,11 @@
 ---
-title: "Random Quote Generator"
-start: 2017-01-01
+title: "Tiffin Services"
+start: 2017-07-01
 categories: project
-tags: [Jquery, JS]
+tags: [PHP, JS]
 code: https://github.com/RIBTAS007/Tiffin-Service
 demo: https://ribtas007.github.io/Tiffin-Service/
-image: /img/project-imgs/Random quote generator.jpg
+image: /img/project-imgs/tiffinservice.jpg
 ---
 
 
