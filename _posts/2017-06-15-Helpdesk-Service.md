@@ -5,7 +5,7 @@ categories: project
 tags: [PHP, JS, Bootstrap]
 code: https://github.com/RIBTAS007/helpdesk
 demo: https://ribtas007.github.io/helpdesk/
-image: /img/project-imgs/Random quote generator.jpg
+image: /img/project-imgs/helpdesk.jpg
 ---
 
 
