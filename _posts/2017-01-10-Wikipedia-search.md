@@ -5,7 +5,7 @@ categories: project
 tags: [Randomsearch, JS]
 code: https://github.com/RIBTAS007/Wikipedia-search
 demo: https://ribtas007.github.io/Wikipedia-search/
-image: /img/project-imgs/wikipedia search.jpg
+image: /img/project-imgs/wikipedia.jpg
 ---
 
 
