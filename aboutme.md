@@ -33,7 +33,7 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-briefcase about-icon"></span>
-  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://www.dropbox.com/s/otjycx230wtakrv/SharePoint%20and%20Office%20365%20Report.pdf?dl=0">SharePoint and Office 365</a>.
+  I interned at <b>Tata Steel Limited, Jamshedpur</b>, created a detailed research report about <a href="https://ribtas007.github.io/SharePoint-and-Office-365/">SharePoint and Office 365</a>.
 </p>
 
 <p class="about-text">
