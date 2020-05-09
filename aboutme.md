@@ -13,12 +13,17 @@ css: "/css/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-file-text-o about-icon"></span>
-  Download my CV here (<a href="/files/RESUME V.4.pdf">pdf</a>).
+  Download my CV here (<a href="/files/Resume V.5.1.pdf">pdf</a>).
 </p>
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
 	I have graduated in computer science in 2018 and currently I am preparing for <b>GATE</b> exam for pursuing M.Tech from one of the best colleges of <b>INDIA </b>.
+</p>
+
+<p class="about-text">
+  <span class="fa fa-briefcase about-icon"></span>
+	I am also volunteering as a team member for Jamshedpur chapter at  <a href="https://www.girlscript.tech/home">GirlScript Foundation</a>
 </p>
 
 <p class="about-text">
