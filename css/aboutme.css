@@ -20,6 +20,10 @@
   margin-bottom: 0;
 }
 
+#aboutme-section h1 {
+  color: #66FCF1 ;
+}
+
 #contactme-section {
   font-size: 19px;
   margin-top: 60px;
