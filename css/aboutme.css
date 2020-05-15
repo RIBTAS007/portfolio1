@@ -13,16 +13,14 @@
   position: absolute;
   left: -40px;
   margin-top: 5px;
-  color: #66FCF1 ;
+  
 }
 
 #aboutme-section p:last-child {
   margin-bottom: 0;
 }
 
-#aboutme-section h1 {
-  color: #66FCF1 ;
-}
+
 
 #contactme-section {
   font-size: 19px;
@@ -31,7 +29,6 @@
 
 #contactme-section h1 {
   font-size: 50px;
-  color: #66FCF1 ;
 }
 
 #contact-form p {
