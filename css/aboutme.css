@@ -5,6 +5,7 @@
 .about-text {
   position: relative;
   margin-left: 30px;
+  color: white;
 }
 
 .about-icon {
@@ -12,6 +13,7 @@
   position: absolute;
   left: -40px;
   margin-top: 5px;
+  color: #66FCF1 ;
 }
 
 #aboutme-section p:last-child {
@@ -25,6 +27,7 @@
 
 #contactme-section h1 {
   font-size: 50px;
+  color: #66FCF1 ;
 }
 
 #contact-form p {
