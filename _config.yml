@@ -46,7 +46,7 @@ link-col: "#4263f5"
 hover-col: "#45A29E"
 footer-col: "#0B0C10"
 footer-text-col: "#66FCF1"
-footer-link-col: "#404040"
+footer-link-col: "#66FCF1"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -67,15 +67,15 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  linkedin: satbir007/
+  github: RIBTAS007
   email: "ribtas007@outlook.com"
 #  facebook: deanattali
-  github: RIBTAS007
+#  rss: true  
 #  twitter: daattali
-#  reddit: yourname
-  linkedin: satbir007/
+#  reddit: yourname 
 #  xing: yourname
- # stackoverflow: "6430403/rishabh-gupta"
+#  stackoverflow: "6430403/rishabh-gupta"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -86,10 +86,10 @@ social-network-links:
 #  yelp: yourname
 
 # Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+# share-links-active:
+#   twitter: true
+#   facebook: true
+#   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -98,7 +98,7 @@ url-pretty: "Ribtas007.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-101604185-1"
+# gtag: "UA-101604185-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
