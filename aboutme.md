@@ -3,7 +3,7 @@ layout: page
 title: About me
 meta-title: About me
 subtitle: <b>"Dread it, run from it, Destiny still arrives."</b>
-
+css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
 
