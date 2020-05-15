@@ -11,7 +11,7 @@ title: SatriX
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://mr-easy.github.io"
+#url: "https://ribtas007.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,7 +21,7 @@ title: SatriX
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  Blog: "blog/"
+  Experience: "blog/"
   Projects: "projects/"
   About Me: "aboutme/"
   Contact me: "contact/"
@@ -38,14 +38,14 @@ avatar: "/img/abcd.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#000000"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+navbar-col: "#0B0C10"
+navbar-text-col: "#66FCF1"
+navbar-children-col: "#404040"
+page-col: "#1F2833"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#000000"
-footer-text-col: "#FFFFFF"
+footer-col: "#0B0C10"
+footer-text-col: "#66FCF1"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
