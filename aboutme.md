@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: A brief intro about me
+title: About Satbir Singh
+meta-title: About me
+subtitle: "Dread it, run from it, Destiny still arrives."
 css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
