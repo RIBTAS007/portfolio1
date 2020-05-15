@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A liitle bit about myself
+subtitle: A brief intro about me
 css: "/css/aboutme.css"
 ---
 <div id="aboutme-section">
