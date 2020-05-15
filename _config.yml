@@ -21,9 +21,9 @@ title: SatriX
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
+  About Me: "aboutme/"
   Experience: "blog/"
   Projects: "projects/"
-  About Me: "aboutme/"
   Contact me: "contact/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
