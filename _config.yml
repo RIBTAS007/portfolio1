@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mr-easy.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ribtas007.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -104,7 +104,7 @@ gtag: "UA-101604185-1"
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "UA-166889735-1"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -118,7 +118,7 @@ gtag: "UA-101604185-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: "rishabh-gupta"
+# disqus: "Ribtas007"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
