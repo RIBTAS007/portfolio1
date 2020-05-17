@@ -6,37 +6,17 @@ tags: [Jquery, JS]
 code: https://github.com/RIBTAS007/random-quote-generator-app
 demo: https://ribtas007.github.io/random-quote-generator-app/
 image: /img/project-imgs/Random quote generator.jpg
-css: "/css/exp.css"
-js: "/js/exp.js"
 ---
 
-<p>
+
 This app was developed during the free code camp front end development certification course.
 <span id="dots">...</span><span id="more">
 This is a simple application which generates a random quote.With the help of share button you
 can share these quotes directly on twitter You can use the app from link below.
 This app was developed during the free code camp front end development certification course.
 This is a simple application which generates a random quote.With the help of share button you
-can share these quotes directly on twitter You can use the app from link below. </span>
-</p> 
+can share these quotes directly on twitter You can use the app from link below.
 
-<button onclick="myFunction()" id="myBtn">Read </button>
-
- function myFunction() {
-  var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
-  var btnText = document.getElementById("myBtn");
-
-  if (dots.style.display === "none") {
-    dots.style.display = "inline";
-    btnText.innerHTML = "Read more";
-    moreText.style.display = "none";
-  } else {
-    dots.style.display = "none";
-    btnText.innerHTML = "Read less";
-    moreText.style.display = "inline";
-  }
-}
 
 
    
